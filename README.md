@@ -6,7 +6,7 @@ A list of public BitTorrent Sync keys.
 [BitTorrent Sync](http://labs.bittorrent.com/experiments/sync.html) allows users to sync their folders between machines. 
 Each folder has a read-only and a read-write key, and anyone that knows one of the keys can sync with the specific folder.
 
-The "folders" file is the equivelent of the "hosts" file used before DNS was introduced: 
+The "keys.txt" file is the equivelent of the "hosts" file used before DNS was introduced: 
 it maps keys to "human friendly" names.
 
 The structure of the file is
