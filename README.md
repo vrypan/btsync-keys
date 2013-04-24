@@ -21,4 +21,5 @@ Example:
     RNK7XXLW3LB4JSR7OP7LMKOTZLHEDRIRE vrypan-shared R
 
 Of course, you can sync this folder using BitTorrent Sync. The key is
+
     RR745RPH5URZVEWS7NSY2KR2V3DKKPBGU
